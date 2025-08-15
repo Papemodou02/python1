@@ -1,4 +1,6 @@
 a=int(input("valeur de a:"))
 b=int(input("valeur de b:"))
-produit= a*b
-print("le produit de a et b=:", produit)
+somme= a+b
+print("la somme de a et b est =", somme)
+print("modification du taf1")
+
